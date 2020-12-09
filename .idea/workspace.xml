@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="077d1419-8701-4d3e-a426-15f3060c0582" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bang-xep-hang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thong-tin-ca-nhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/botudien.html" beforeDir="false" afterPath="$PROJECT_DIR$/bo-tu-dien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chitietbogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-tiet-bo-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangky.html" beforeDir="false" afterPath="$PROJECT_DIR$/dang-ky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dangnhap.html" beforeDir="false" afterPath="$PROJECT_DIR$/dang-nhap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danhgiatiendo.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh-gia-tien-do.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gotocky.html" beforeDir="false" afterPath="$PROJECT_DIR$/go-toc-ky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocgo.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huongdansudung.html" beforeDir="false" afterPath="$PROJECT_DIR$/huong-dan-su-dung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/trang-chu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyentap.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyen-tap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quenmatkhau.html" beforeDir="false" afterPath="$PROJECT_DIR$/quen-mat-khau.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trochoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/trochoi.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lQe3n7HVRET5Uqh0ZgCprkUKys" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HCI_02Tocky" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="077d1419-8701-4d3e-a426-15f3060c0582" name="Default Changelist" comment="" />
+      <created>1607533545693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607533545693</updated>
+      <workItem from="1607533557100" duration="6169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
