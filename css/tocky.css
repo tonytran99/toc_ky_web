@@ -1,0 +1,13 @@
+.sidebar {
+    background-color: #34626c;
+    background-image: none;
+}
+
+#content-wrapper {
+    background-color: #d6e0f0!important;
+}
+
+body {
+    background-color: #34626c!important;
+    background-image: none!important;
+}
