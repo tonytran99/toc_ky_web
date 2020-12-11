@@ -123,6 +123,36 @@
                                 <h6 class="m-0 font-weight-bold ext-primary">Học Gõ / Bộ Từ Điển</h6>
                             </div>
                             <div class="card-body">
+                                <!-- Trigger the modal with a button -->
+                                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Thêm từ điển</button>
+
+                                <!-- Modal -->
+                                <div class="modal fade" id="myModal" role="dialog">
+                                    <div class="modal-dialog modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title">Thêm Từ Điển</h4>
+                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                            </div>
+                                            <div class="modal-body">
+                                                <form>
+                                                    <div class="form-group">
+                                                        <label for="amTiet">Âm tiết</label>
+                                                        <input type="text" class="form-control" id="amTiet" aria-describedby="emailHelp" placeholder="đ">
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label for="amTiet">Phím gõ tốc ký</label>
+                                                        <input type="text" class="form-control" id="phimGoTocKy" aria-describedby="emailHelp" placeholder="T-P">
+                                                    </div>
+                                                    <button type="button" class="btn btn-primary" data-dismiss="modal">Lưu</button>
+                                                </form>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">Thoát</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="table-responsive">
                                     <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                                         <thead>
@@ -142,142 +172,39 @@
                                         <tbody>
                                         <tr>
                                             <td>1</td>
-                                            <td>đ</td>
-                                            <td>T-P</td>
-                                        </tr>
-                                        <tr>
-                                            <td>2</td>
-                                            <td>kh</td>
-                                            <td>K-H-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>3</td>
-                                            <td>b</td>
-                                            <td>P</td>
-                                        </tr>
-                                        <tr>
-                                            <td>4</td>
-                                            <td>c</td>
-                                            <td>K-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>5</td>
-                                            <td>k</td>
-                                            <td>K-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>6</td>
-                                            <td>q</td>
-                                            <td>S-T-K-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>7</td>
-                                            <td>d</td>
-                                            <td>S-P</td>
-                                        </tr>
-                                        <tr>
-                                            <td>8</td>
-                                            <td>gi</td>
-                                            <td>S-H-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>9</td>
-                                            <td>ch</td>
-                                            <td>S-K-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>10</td>
-                                            <td>g</td>
-                                            <td>K-P</td>
-                                        </tr>
-                                        <tr>
-                                            <td>11</td>
-                                            <td>gh</td>
-                                            <td>K-P</td>
-                                        </tr>
-                                        <tr>
-                                            <td>12</td>
-                                            <td>h</td>
-                                            <td>H-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>13</td>
-                                            <td>l</td>
-                                            <td>S-R</td>
-                                        </tr>
-                                        <tr>
-                                            <td>14</td>
-                                            <td>m</td>
-                                            <td>RH-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>15</td>
-                                            <td>n</td>
-                                            <td>PR</td>
-                                        </tr>
-                                        <tr>
-                                            <td>16</td>
                                             <td>p</td>
                                             <td>S-PH-</td>
                                         </tr>
                                         <tr>
-                                            <td>17</td>
+                                            <td>2</td>
                                             <td>r</td>
                                             <td>R</td>
                                         </tr>
                                         <tr>
-                                            <td>18</td>
+                                            <td>3</td>
                                             <td>s</td>
                                             <td>S-</td>
                                         </tr>
                                         <tr>
-                                            <td>19</td>
+                                            <td>4</td>
                                             <td>t</td>
                                             <td>T-</td>
                                         </tr>
                                         <tr>
-                                            <td>20</td>
-                                            <td>th</td>
-                                            <td>T-H-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>21</td>
-                                            <td>v</td>
-                                            <td>S-PR</td>
-                                        </tr>
-                                        <tr>
-                                            <td>22</td>
-                                            <td>ph</td>
-                                            <td>PH-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>23</td>
-                                            <td>x</td>
-                                            <td>S-T-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>24</td>
-                                            <td>ng</td>
-                                            <td>K-R</td>
-                                        </tr>
-                                        <tr>
-                                            <td>25</td>
+                                            <td>5</td>
                                             <td>ngh</td>
                                             <td>K-R</td>
                                         </tr>
                                         <tr>
-                                            <td>26</td>
+                                            <td>6</td>
                                             <td>nh</td>
                                             <td>T-K-</td>
-                                        </tr>
-                                        <tr>
-                                            <td>27</td>
-                                            <td>tr</td>
-                                            <td>T-R</td>
                                         </tr>
                                         </tbody>
                                     </table>
                                 </div>
+                            </div>
+
                             </div>
                         </div>
 
