@@ -2,20 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077d1419-8701-4d3e-a426-15f3060c0582" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bang-xep-hang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thong-tin-ca-nhan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/botudien.html" beforeDir="false" afterPath="$PROJECT_DIR$/bo-tu-dien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chitietbogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-tiet-bo-go.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dangky.html" beforeDir="false" afterPath="$PROJECT_DIR$/dang-ky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dangnhap.html" beforeDir="false" afterPath="$PROJECT_DIR$/dang-nhap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/danhgiatiendo.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh-gia-tien-do.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gotocky.html" beforeDir="false" afterPath="$PROJECT_DIR$/go-toc-ky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hocgo.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huongdansudung.html" beforeDir="false" afterPath="$PROJECT_DIR$/huong-dan-su-dung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/trang-chu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/luyentap.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyen-tap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quenmatkhau.html" beforeDir="false" afterPath="$PROJECT_DIR$/quen-mat-khau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trochoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/trochoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/danh-gia-tien-do/kiem-tra-tien-do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/danh-gia-tien-do/tien-do-ca-nhan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc-go/bo-tu-dien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc-go/chi-tiet-bo-go.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc-go/hoc-go.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/luyen-tap-cu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thong-tin-ca-nhan-cu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tro-choi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bang-xep-hang.html" beforeDir="false" afterPath="$PROJECT_DIR$/bang-xep-hang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bo-tu-dien.html" beforeDir="false" afterPath="$PROJECT_DIR$/bo-tu-dien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chi-tiet-bo-go.html" beforeDir="false" afterPath="$PROJECT_DIR$/chi-tiet-bo-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tocky.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tocky.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh-gia-tien-do.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh-gia-tien-do.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-toc-ky.html" beforeDir="false" afterPath="$PROJECT_DIR$/go-toc-ky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc-go.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huong-dan-su-dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/huong-dan-su-dung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/demo/chart-area-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/demo/chart-area-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/demo/chart-bar-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/demo/chart-bar-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyen-tap.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyen-tap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thong-tin-ca-nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/thong-tin-ca-nhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trang-chu.html" beforeDir="false" afterPath="$PROJECT_DIR$/trang-chu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trochoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/trochoi-cu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HCI_02Tocky" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../toc-ky-nhom-02" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -58,7 +67,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607533545693</updated>
-      <workItem from="1607533557100" duration="6169000" />
+      <workItem from="1607533557100" duration="6245000" />
+      <workItem from="1607697800509" duration="6415000" />
+      <workItem from="1607712263605" duration="4724000" />
     </task>
     <servers />
   </component>
@@ -75,5 +86,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
