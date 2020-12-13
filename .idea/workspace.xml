@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077d1419-8701-4d3e-a426-15f3060c0582" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/tien-do-ca-nhan.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc-go/huong-dan-su-dung.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/tocky.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/tocky.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh-gia-tien-do/kiem-tra-tien-do.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh-gia-tien-do/kiem-tra-tien-do.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/danh-gia-tien-do/tien-do-ca-nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh-gia-tien-do/tien-do-ca-nhan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hoc-go/bo-tu-dien.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go/bo-tu-dien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc-go/chi-tiet-bo-go.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go/chi-tiet-bo-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc-go/hoc-go.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go/hoc-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huong-dan-su-dung.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/luyen-tap.html" beforeDir="false" afterPath="$PROJECT_DIR$/luyen-tap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thong-tin-ca-nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/thong-tin-ca-nhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trang-chu.html" beforeDir="false" afterPath="$PROJECT_DIR$/trang-chu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tro-choi.html" beforeDir="false" afterPath="$PROJECT_DIR$/tro-choi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -35,9 +47,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../toc-ky-nhom-02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hoc-go" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hoc-go" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +67,10 @@
       <updated>1607533545693</updated>
       <workItem from="1607533557100" duration="6245000" />
       <workItem from="1607697800509" duration="6415000" />
-      <workItem from="1607712263605" duration="5533000" />
+      <workItem from="1607712263605" duration="5763000" />
+      <workItem from="1607788254813" duration="919000" />
+      <workItem from="1607794308776" duration="6366000" />
+      <workItem from="1607863121922" duration="4309000" />
     </task>
     <servers />
   </component>

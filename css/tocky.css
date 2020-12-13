@@ -57,3 +57,35 @@ footer.sticky-footer {
     font-weight: 700;
     color: #fff!important;
 }
+
+button {
+    background-color: rgba(119, 182, 255, 255)!important;
+    border-color: rgba(119, 182, 255, 255)!important;
+    color: #fff!important;
+}
+
+.card-trang-chu {
+
+}
+
+.card-trang-chu:hover .font-weight-bolder{
+    color: #fff!important;
+    margin-top: -48px;
+    font-size: 22px;
+}
+
+#btnHocGo:hover {
+    background-color: #4e73df !important;
+}
+
+#btnLuyenTap:hover {
+    background-color: #1cc88a !important;
+}
+
+#btnTroChoi:hover {
+    background-color: #36b9cc !important;
+}
+
+#btnDanhGiaTienDo:hover {
+    background-color: #f6c23e !important;
+}
