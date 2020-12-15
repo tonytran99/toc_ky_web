@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="077d1419-8701-4d3e-a426-15f3060c0582" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/danh-gia-tien-do/kiem-tra-tien-do.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh-gia-tien-do/kiem-tra-tien-do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoc-go/huong-dan-hoc-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/danh-gia-tien-do/tien-do-ca-nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh-gia-tien-do/tien-do-ca-nhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc-go/bo-tu-dien.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go/bo-tu-dien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc-go/chi-tiet-bo-go.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go/chi-tiet-bo-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc-go/hoc-go.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go/hoc-go.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc-go/huong-dan-su-dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-go/huong-dan-su-dung.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hoc-go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -59,7 +64,9 @@
       <workItem from="1607788254813" duration="919000" />
       <workItem from="1607794308776" duration="6366000" />
       <workItem from="1607863121922" duration="4309000" />
-      <workItem from="1607876959799" duration="500000" />
+      <workItem from="1607876959799" duration="606000" />
+      <workItem from="1607994797256" duration="1000" />
+      <workItem from="1607994804959" duration="2196000" />
     </task>
     <servers />
   </component>
