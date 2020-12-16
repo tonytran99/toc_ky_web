@@ -106,7 +106,8 @@ p {
 .card {
     z-index: 0;
     border: none;
-    position: relative
+    position: relative;
+    height: 100%;
 }
 
 .fs-title {
