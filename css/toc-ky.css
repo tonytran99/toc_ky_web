@@ -29,6 +29,13 @@ footer.sticky-footer {
     justify-content: center;
 }
 
+.toc-ky-center .row {
+    height: 100%;
+    display: flex;
+    align-items: flex-start!important;
+    font-size: 1.3rem;
+}
+
 #content {
     padding: 48px 0;
 }
@@ -70,8 +77,16 @@ button {
 
 .card-trang-chu:hover .font-weight-bolder{
     color: #fff!important;
+    font-size: 1.3rem;
+}
+.card-trang-chu .description {
+    font-size: 1rem!important;
+}
+
+.card-trang-chu:hover .description {
     margin-top: -48px;
-    font-size: 22px;
+    color: #fff!important;
+    font-size: 1rem!important;
 }
 
 #btnHocGo:hover {
