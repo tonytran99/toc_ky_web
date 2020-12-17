@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HCI_02Tocky_DanhGiaTienDo",
+"productVersion": "0.1",
+"dataUrl": "man-hinh-kiem-tra-tien-do-go.data.unityweb",
+"wasmCodeUrl": "man-hinh-kiem-tra-tien-do-go.wasm.code.unityweb",
+"wasmFrameworkUrl": "man-hinh-kiem-tra-tien-do-go.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
